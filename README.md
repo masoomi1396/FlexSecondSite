@@ -1,2 +1,2 @@
 # FlexSecondSite
-This is my second site with only html and css 
+This is my second site only with html and css 
