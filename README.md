@@ -1,6 +1,6 @@
 # FlexSecondSite
 *😁 This is my second site which I create only with HTML and CSS to train Flex*
-- [Demo Project](https://github.com/masoomi1396/FlexSecondSite)
+- [Demo Project](https://masoomi1396.github.io/FlexSecondSite/)
 - Developed by Amirmohammad Masoumi
 - Created - 2023-06-07
 - 🤖 Technologies Used - Html , css 
